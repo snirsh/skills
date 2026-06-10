@@ -82,17 +82,14 @@ Skills should be taught through interactive lessons. There are several tools at 
 
 Each of these should be based on a **feedback loop**, where the user receives feedback on their performance. This feedback loop should be as tight as possible, giving feedback immediately - and ideally automatically.
 
-A question should test understanding, not be guessable. If the user can pick the answer by pattern-matching rather than knowing the material, the question has failed:
+A question should test understanding, not be guessable from the shape of the options:
 
-- **No length tell.** The correct answer must not be the longest or shortest option. Keep every option roughly equal in length and detail - users learn to "pick the detailed one".
-- **Equally-developed distractors.** Give wrong answers justifications as confident and fleshed-out as the correct one. A hedged or thin distractor next to a sure one gives the answer away.
-- **Encode real misconceptions.** Build each distractor from a mistake a learner actually makes - a confused concept, a misapplied rule, a half-truth - stated plausibly. An obviously absurd option is wasted.
-- **Parallel form.** Keep grammar, structure, and specificity consistent across options. An odd one out reads as the answer.
-- **No positional tell.** Vary where the correct answer sits.
+- **No tells.** Keep every option parallel in length, detail, grammar, and specificity, and vary where the correct answer sits. An option that's longer, hedged, or odd-one-out gives the answer away.
+- **Plausible distractors.** Build each wrong answer from a real misconception - a confused concept, a misapplied rule, a half-truth - and justify it as confidently as the correct one. An obviously absurd option is wasted.
 - **Discriminate, don't recall.** Favour questions where every option looks defensible at a glance and the user has to reason about the distinction.
 - **Teach through misses.** When the user picks a distractor, name the misconception it represents.
 
-A useful test: strip the options of their meaning. If you can still guess the answer from shape alone - length, hedging, specificity, grammar - rewrite it.
+A useful test: strip the options of their meaning. If you can still guess the answer from shape alone, rewrite it.
 
 ## Acquiring Wisdom
 
