@@ -82,6 +82,14 @@ Skills should be taught through interactive lessons. There are several tools at 
 
 Each of these should be based on a **feedback loop**, where the user receives feedback on their performance. This feedback loop should be as tight as possible, giving feedback immediately - and ideally automatically.
 
+A question should test understanding, not be guessable. If the user can pick the answer by pattern-matching rather than knowing the material, the question has failed:
+
+- **No length tell.** The correct answer must not be the longest or shortest option. Keep every option the same length and detail - users learn to "pick the detailed one".
+- **Plausible distractors.** Each wrong answer should be one a learner with a common misconception would actually choose - a confused concept, a misapplied rule, a half-truth. An obviously absurd option is wasted.
+- **No positional tell.** Vary where the correct answer sits.
+- **Discriminate, don't recall.** Favour questions where every option looks defensible at a glance and the user has to reason about the distinction.
+- **Teach through misses.** When the user picks a distractor, name the misconception it represents.
+
 ## Acquiring Wisdom
 
 Wisdom comes from true real-world interaction - testing your skills outside the learning environment.
