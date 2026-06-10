@@ -84,11 +84,15 @@ Each of these should be based on a **feedback loop**, where the user receives fe
 
 A question should test understanding, not be guessable. If the user can pick the answer by pattern-matching rather than knowing the material, the question has failed:
 
-- **No length tell.** The correct answer must not be the longest or shortest option. Keep every option the same length and detail - users learn to "pick the detailed one".
-- **Plausible distractors.** Each wrong answer should be one a learner with a common misconception would actually choose - a confused concept, a misapplied rule, a half-truth. An obviously absurd option is wasted.
+- **No length tell.** The correct answer must not be the longest or shortest option. Keep every option roughly equal in length and detail - users learn to "pick the detailed one".
+- **Equally-developed distractors.** Give wrong answers justifications as confident and fleshed-out as the correct one. A hedged or thin distractor next to a sure one gives the answer away.
+- **Encode real misconceptions.** Build each distractor from a mistake a learner actually makes - a confused concept, a misapplied rule, a half-truth - stated plausibly. An obviously absurd option is wasted.
+- **Parallel form.** Keep grammar, structure, and specificity consistent across options. An odd one out reads as the answer.
 - **No positional tell.** Vary where the correct answer sits.
 - **Discriminate, don't recall.** Favour questions where every option looks defensible at a glance and the user has to reason about the distinction.
 - **Teach through misses.** When the user picks a distractor, name the misconception it represents.
+
+A useful test: strip the options of their meaning. If you can still guess the answer from shape alone - length, hedging, specificity, grammar - rewrite it.
 
 ## Acquiring Wisdom
 
